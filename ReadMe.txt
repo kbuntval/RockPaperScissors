@@ -1,0 +1,1 @@
+Just to test some function creating capabilities in javascript. Front-end UI is minimal.
